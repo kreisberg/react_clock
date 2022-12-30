@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,KAGC,sCAAyC,CACzC,cAAe,CAEf,iBAAkB","file":"main.cad9cedd.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\nhtml {\n  font-family: Arial, Helvetica, sans-serif;\n  font-size: 24px;\n\n  text-align: center;\n}\n"]}
